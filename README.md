@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/israelbraitt?label=follow&style=social)](https://twitter.com/israelbraitt)
 
 ### About me
-- :floppy_disk: Computer Engineering
+- :floppy_disk: Computer Engineer
 - :computer: Full-Stack Developer
 
 ### Languages and tools
