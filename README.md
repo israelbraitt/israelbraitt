@@ -1,6 +1,5 @@
 ## Israel Braitt
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/israelbraitt)](https://github.com/israelbraitt)
 [![Twitter Badge](https://img.shields.io/twitter/follow/israelbraitt?label=follow&style=social)](https://twitter.com/israelbraitt)
 
 ### About me
