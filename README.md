@@ -1,6 +1,6 @@
 ## Israel Braitt
 
-[![LinkedIn Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-braitt-143530231/)
+[![LinkedIn Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israelbraitt/)
 
 ### About me
 - :floppy_disk: Computer Engineer
