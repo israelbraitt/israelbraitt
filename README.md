@@ -4,7 +4,7 @@
 
 ### About me
 - :floppy_disk: Computer Engineer
-- :computer: Full-Stack Developer
+- :computer: Full Stack Developer
 
 ### Languages and tools
 <img><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png"></img>
