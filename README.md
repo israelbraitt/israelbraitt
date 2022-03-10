@@ -7,13 +7,13 @@
 - :computer: Full Stack Developer
 
 ### Languages and tools
-<img><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png"></img>
-<img><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png"></img>
-<img><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.png"></img>
-<img><img height="30" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"></img>
-<img><img height="35" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png"></img>
-<img><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png"></img>
-<img><img height="30" src="https://avatars.githubusercontent.com/u/1517864?s=200&v=4"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></img>
+<img><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 
 ![Israel GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbraitt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b2b)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelbraitt&show_icons=true&layout=compact&langs_count=10&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b2b)
