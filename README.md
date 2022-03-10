@@ -11,7 +11,7 @@
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></img>
-<img><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></img>
+<img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></img>
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 
