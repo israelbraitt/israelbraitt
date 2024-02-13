@@ -3,8 +3,8 @@
 [![LinkedIn Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israelbraitt/)
 
 ### About me
+- :money_with_wings: Entrepreneur
 - :floppy_disk: Computer Engineer
-- :computer: Full Stack Developer
 
 ### Languages and tools
 <img><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
