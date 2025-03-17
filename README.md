@@ -1,7 +1,6 @@
 ## About me
 
 [![LinkedIn Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israelbraitt/)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://israelbraitt.substack.com/)
 
 - :money_with_wings: Entrepreneur
 - :floppy_disk: Computer Engineer
