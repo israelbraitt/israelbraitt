@@ -3,14 +3,14 @@ I'm a software engineer, working in web development and with experience with aut
 
 Over the past few years, I've helped creative brands and ambitious entrepreneurs stand out in the market through strategic branding, web design, and website development that increases online visibility and generates real results.
 
-I also create content and share lessons learned from my journey. I also have experience with crypto assets and decentralized finance (DeFi).
+I also create content and share lessons learned from my journey. I  have experience with crypto assets and decentralized finance (DeFi).
 
 ## Projects
 - I have a web design and web development agency called Braitt Agency [[website here](https://www.braittagency.com)]
 
 ## GitHub Stats
-![Israel GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbraitt&show_icons=true&title_color=fff&icon_color=FB8C00&text_color=9f9f9f&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelbraitt&show_icons=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)
+![Israel GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbraitt&show_icons=true&title_color=fff&icon_color=fb8c00&text_color=9e9e9e&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelbraitt&show_icons=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9e9e9e&bg_color=0d1117)
 [![GitHub Streak](https://streak-stats.demolab.com?user=israelbraitt&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ## My Stack
