@@ -1,5 +1,5 @@
 # Hey, I'm Israel
-I'm a software engineer, working in web development and with experience with automation and artificial intelligence.
+I'm a software engineer working in web development with experience in automation and artificial intelligence.
 
 Over the past few years, I've helped creative brands and ambitious entrepreneurs stand out in the market through strategic branding, web design, and website development that increases online visibility and generates real results.
 
