@@ -1,9 +1,9 @@
 # Hey, I'm Israel
-I'm a software engineer working in web development with experience in automation and artificial intelligence.
+I'm a content creator, software engineer, brand manager, and athlete
 
-Over the past few years, I've helped creative brands and ambitious entrepreneurs stand out in the market through strategic branding, web design, and website development that increases online visibility and generates real results.
+I help creative brands and ambitious entrepreneurs gain unfair advantages in the market through strategic branding, web design, and web development that increase online visibility and generate real results
 
-I create content and share lessons learned from my journey. I also have experience with crypto assets and decentralized finance (DeFi).
+I also share lessons learned from my journey and I like to make the impossible easy
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/israelbraitt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israelbraitt)
