@@ -1,16 +1,14 @@
 # Hey, I'm Israel
-I'm a content creator, software engineer, brand manager, and athlete
+Content creator, software engineer, brand manager, and athlete. I share lessons learned from my journey and enjoy making the impossible easy.
 
-I help creative brands and ambitious entrepreneurs gain unfair advantages in the market through strategic branding, web design, and web development that increase online visibility and generate real results
-
-I also share lessons learned from my journey and I like to make the impossible easy
+I help creative brands and ambitious entrepreneurs gain unfair advantages in the market through solutions that increase their visibility through strategy, design, and performance.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/israelbraitt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israelbraitt)
 [![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/israelbraitt)
 
 ## Projects
-- I have a web design and web development agency called Braitt Agency [[website here](https://www.braittagency.com)]
+- I have a creative and strategic studio that helps ambitious brands gain unfair advantages called Braitt Studio [[website here](https://www.braittstudio.com)]
 
 ## GitHub Stats
 ![Israel GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbraitt&show_icons=true&title_color=fff&icon_color=20c20e&text_color=9e9e9e&bg_color=0d1117)
