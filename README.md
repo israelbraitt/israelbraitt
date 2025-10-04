@@ -1,5 +1,5 @@
 # Hey, I'm Israel
-Content creator, software engineer, brand manager, and athlete. I share lessons learned from my journey and enjoy making the impossible easy.
+Content creator, software engineer, filmmaker and athlete. I share lessons learned from my journey and enjoy making the impossible easy.
 
 I help creative brands and ambitious entrepreneurs gain unfair advantages in the market through solutions that increase their visibility through strategy, design, and performance.
 
