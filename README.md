@@ -16,13 +16,13 @@ I help creative brands and ambitious entrepreneurs gain unfair advantages in the
 [![GitHub Streak](https://streak-stats.demolab.com?user=israelbraitt&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ## Tech Stack
-### Front-end
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)
+### Languages
+![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,typescript,mysql,postgres)
 
-### Back-end
-![My Skills](https://skillicons.dev/icons?i=python,java,mysql,nodejs)
+### Frameworks
+![My Skills](https://skillicons.dev/icons?i=nodejs,react)
 
-### DevOps and tools
+### Dev tools
 ![My Skills](https://skillicons.dev/icons?i=git,figma,godot)
 
 ## Some achievements
